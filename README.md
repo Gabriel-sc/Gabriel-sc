@@ -25,3 +25,4 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-costa-6910a2239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+![Snake animation](https://github.com/Gabriel-sc/Gabriel-sc/blob/output/github-contribution-grid-snake.svg)
