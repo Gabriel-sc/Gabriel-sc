@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Gabriel Costa🖐️
 
-### Olá! Eu sou o David Luiz
-
-
 - 🔭 Apaixonado por tecnologia
 - 🌱 Eterno estudante
 <div align="center">
